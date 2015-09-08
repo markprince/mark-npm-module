@@ -1,0 +1,1 @@
+This is just a sample npm module. I am committing to Github for more headaches and help me learn better. 
