@@ -1,6 +1,6 @@
 {
   "name": "@markprince/mark-npm-module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sample NPM module",
   "main": "index.js",
   "scripts": {
