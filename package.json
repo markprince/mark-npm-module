@@ -1,0 +1,22 @@
+{
+  "name": "@markprince/mark-npm-module",
+  "version": "0.0.1",
+  "description": "Sample NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markprince/mark-npm-module.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mark Prince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markprince/mark-npm-module/issues"
+  },
+  "homepage": "https://github.com/markprince/mark-npm-module#readme"
+}
